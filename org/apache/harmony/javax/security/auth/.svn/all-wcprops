@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/working/!svn/ver/2/test/asmack-src/org/apache/harmony/javax/security/auth
+END
+Subject.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/working/!svn/ver/2/test/asmack-src/org/apache/harmony/javax/security/auth/Subject.java
+END
+RefreshFailedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/working/!svn/ver/2/test/asmack-src/org/apache/harmony/javax/security/auth/RefreshFailedException.java
+END
+Refreshable.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/working/!svn/ver/2/test/asmack-src/org/apache/harmony/javax/security/auth/Refreshable.java
+END
+SubjectDomainCombiner.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/working/!svn/ver/2/test/asmack-src/org/apache/harmony/javax/security/auth/SubjectDomainCombiner.java
+END
+AuthPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/working/!svn/ver/2/test/asmack-src/org/apache/harmony/javax/security/auth/AuthPermission.java
+END
+DestroyFailedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/working/!svn/ver/2/test/asmack-src/org/apache/harmony/javax/security/auth/DestroyFailedException.java
+END
+Destroyable.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/working/!svn/ver/2/test/asmack-src/org/apache/harmony/javax/security/auth/Destroyable.java
+END
+PrivateCredentialPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/working/!svn/ver/2/test/asmack-src/org/apache/harmony/javax/security/auth/PrivateCredentialPermission.java
+END

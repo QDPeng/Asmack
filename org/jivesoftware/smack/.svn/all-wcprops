@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smack
+END
+Connection.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smack/Connection.java
+END
+PrivacyListManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smack/PrivacyListManager.java
+END
+PrivacyList.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smack/PrivacyList.java
+END
+ChatManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smack/ChatManager.java
+END
+BOSHConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smack/BOSHConnection.java
+END
+PacketListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smack/PacketListener.java
+END
+NonSASLAuthentication.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smack/NonSASLAuthentication.java
+END
+UserAuthentication.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smack/UserAuthentication.java
+END
+PacketCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smack/PacketCollector.java
+END
+Chat.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smack/Chat.java
+END
+ReconnectionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smack/ReconnectionManager.java
+END
+BOSHConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smack/BOSHConfiguration.java
+END
+RosterListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smack/RosterListener.java
+END
+AccountManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smack/AccountManager.java
+END
+PacketReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smack/PacketReader.java
+END
+ConnectionCreationListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smack/ConnectionCreationListener.java
+END
+RosterGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smack/RosterGroup.java
+END
+OpenTrustManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smack/OpenTrustManager.java
+END
+RosterEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smack/RosterEntry.java
+END
+SASLAuthentication.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smack/SASLAuthentication.java
+END
+XMPPException.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smack/XMPPException.java
+END
+RosterStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smack/RosterStorage.java
+END
+ServerTrustManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smack/ServerTrustManager.java
+END
+XMPPConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smack/XMPPConnection.java
+END
+PacketWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smack/PacketWriter.java
+END
+ConnectionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smack/ConnectionListener.java
+END
+BOSHPacketReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smack/BOSHPacketReader.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smack/package.html
+END
+Roster.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smack/Roster.java
+END
+PrivacyListListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smack/PrivacyListListener.java
+END
+ChatManagerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smack/ChatManagerListener.java
+END
+SmackConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smack/SmackConfiguration.java
+END
+PacketInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smack/PacketInterceptor.java
+END
+ConnectionConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smack/ConnectionConfiguration.java
+END
+MessageListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smack/MessageListener.java
+END

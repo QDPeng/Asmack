@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/pubsub/packet
+END
+PubSub.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/pubsub/packet/PubSub.java
+END
+PubSubNamespace.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/pubsub/packet/PubSubNamespace.java
+END
+SyncPacketSend.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/pubsub/packet/SyncPacketSend.java
+END

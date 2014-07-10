@@ -1,0 +1,40 @@
+8
+
+dir
+2
+https://192.168.1.103/svn/working/test/asmack-src/org/jivesoftware/smackx/debugger
+https://192.168.1.103/svn/working
+
+
+
+2014-07-10T06:32:48.584832Z
+2
+qdong
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+38099ec9-7de1-fd43-96db-a94dffcddccd
+
+package.html
+file
+
+
+
+
+2014-07-10T06:42:58.006934Z
+68f40ec4426e4956d77b16c8313844e4
+2014-07-10T06:32:48.584832Z
+2
+qdong
+

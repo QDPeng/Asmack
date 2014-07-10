@@ -1,0 +1,94 @@
+8
+
+dir
+2
+https://192.168.1.103/svn/working/test/asmack-src/org/jivesoftware/smackx/workgroup
+https://192.168.1.103/svn/working
+
+
+
+2014-07-10T06:32:48.584832Z
+2
+qdong
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+38099ec9-7de1-fd43-96db-a94dffcddccd
+
+ext
+dir
+
+settings
+dir
+
+MetaData.java
+file
+
+
+
+
+2014-07-10T06:42:58.596968Z
+46522bd542693d77cfd4eee16acb6fc9
+2014-07-10T06:32:48.584832Z
+2
+qdong
+
+QueueUser.java
+file
+
+
+
+
+2014-07-10T06:42:58.599968Z
+c1712e7c392df82e9203c25e478cf7df
+2014-07-10T06:32:48.584832Z
+2
+qdong
+
+WorkgroupInvitation.java
+file
+
+
+
+
+2014-07-10T06:42:58.601968Z
+a3acfd20a75034a5f37a659c54abcabc
+2014-07-10T06:32:48.584832Z
+2
+qdong
+
+packet
+dir
+
+WorkgroupInvitationListener.java
+file
+
+
+
+
+2014-07-10T06:42:58.604968Z
+5437827e6ff77768aa012653743a8afe
+2014-07-10T06:32:48.584832Z
+2
+qdong
+
+util
+dir
+
+agent
+dir
+
+user
+dir
+

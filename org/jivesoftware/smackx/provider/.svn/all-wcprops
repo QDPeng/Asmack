@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/provider
+END
+PEPProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/provider/PEPProvider.java
+END
+EmbeddedExtensionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/provider/EmbeddedExtensionProvider.java
+END
+MessageEventProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/provider/MessageEventProvider.java
+END
+HeaderProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/provider/HeaderProvider.java
+END
+XHTMLExtensionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/provider/XHTMLExtensionProvider.java
+END
+MultipleAddressesProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/provider/MultipleAddressesProvider.java
+END
+DiscoverInfoProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/provider/DiscoverInfoProvider.java
+END
+DataFormProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/provider/DataFormProvider.java
+END
+MUCAdminProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/provider/MUCAdminProvider.java
+END
+VCardProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/provider/VCardProvider.java
+END
+MUCOwnerProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/provider/MUCOwnerProvider.java
+END
+BytestreamsProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/provider/BytestreamsProvider.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/provider/package.html
+END
+PrivateDataProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/provider/PrivateDataProvider.java
+END
+DelayInformationProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/provider/DelayInformationProvider.java
+END
+AdHocCommandDataProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/provider/AdHocCommandDataProvider.java
+END
+DelayInfoProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/provider/DelayInfoProvider.java
+END
+HeadersProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/provider/HeadersProvider.java
+END
+IBBProviders.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/provider/IBBProviders.java
+END
+DiscoverItemsProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/provider/DiscoverItemsProvider.java
+END
+RosterExchangeProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/provider/RosterExchangeProvider.java
+END
+MUCUserProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/provider/MUCUserProvider.java
+END
+CapsExtensionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/provider/CapsExtensionProvider.java
+END
+StreamInitiationProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/provider/StreamInitiationProvider.java
+END

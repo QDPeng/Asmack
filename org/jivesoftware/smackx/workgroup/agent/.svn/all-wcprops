@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/workgroup/agent
+END
+Offer.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/workgroup/agent/Offer.java
+END
+AgentSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/workgroup/agent/AgentSession.java
+END
+AgentRosterListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/workgroup/agent/AgentRosterListener.java
+END
+WorkgroupQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/workgroup/agent/WorkgroupQueue.java
+END
+OfferListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/workgroup/agent/OfferListener.java
+END
+OfferConfirmation.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/workgroup/agent/OfferConfirmation.java
+END
+TranscriptSearchManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/workgroup/agent/TranscriptSearchManager.java
+END
+QueueUsersListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/workgroup/agent/QueueUsersListener.java
+END
+OfferConfirmationListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/workgroup/agent/OfferConfirmationListener.java
+END
+RevokedOffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/workgroup/agent/RevokedOffer.java
+END
+TranscriptManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/workgroup/agent/TranscriptManager.java
+END
+UserRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/workgroup/agent/UserRequest.java
+END
+OfferContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/workgroup/agent/OfferContent.java
+END
+AgentRoster.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/workgroup/agent/AgentRoster.java
+END
+InvitationRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/workgroup/agent/InvitationRequest.java
+END
+TransferRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/workgroup/agent/TransferRequest.java
+END
+Agent.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/workgroup/agent/Agent.java
+END

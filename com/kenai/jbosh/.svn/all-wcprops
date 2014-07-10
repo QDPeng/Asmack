@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/working/!svn/ver/2/test/asmack-src/com/kenai/jbosh
+END
+QName.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/working/!svn/ver/2/test/asmack-src/com/kenai/jbosh/QName.java
+END
+BOSHMessageEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/working/!svn/ver/2/test/asmack-src/com/kenai/jbosh/BOSHMessageEvent.java
+END
+ComposableBody.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/working/!svn/ver/2/test/asmack-src/com/kenai/jbosh/ComposableBody.java
+END
+AttrRequests.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/working/!svn/ver/2/test/asmack-src/com/kenai/jbosh/AttrRequests.java
+END
+CMSessionParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/working/!svn/ver/2/test/asmack-src/com/kenai/jbosh/CMSessionParams.java
+END
+AttrPause.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/working/!svn/ver/2/test/asmack-src/com/kenai/jbosh/AttrPause.java
+END
+BOSHClientRequestListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/working/!svn/ver/2/test/asmack-src/com/kenai/jbosh/BOSHClientRequestListener.java
+END
+BodyParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/working/!svn/ver/2/test/asmack-src/com/kenai/jbosh/BodyParser.java
+END
+AbstractIntegerAttr.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/working/!svn/ver/2/test/asmack-src/com/kenai/jbosh/AbstractIntegerAttr.java
+END
+AttrInactivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/working/!svn/ver/2/test/asmack-src/com/kenai/jbosh/AttrInactivity.java
+END
+BodyQName.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/working/!svn/ver/2/test/asmack-src/com/kenai/jbosh/BodyQName.java
+END
+BOSHClientResponseListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/working/!svn/ver/2/test/asmack-src/com/kenai/jbosh/BOSHClientResponseListener.java
+END
+AttrVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/working/!svn/ver/2/test/asmack-src/com/kenai/jbosh/AttrVersion.java
+END
+HTTPSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/working/!svn/ver/2/test/asmack-src/com/kenai/jbosh/HTTPSender.java
+END
+AttrHold.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/working/!svn/ver/2/test/asmack-src/com/kenai/jbosh/AttrHold.java
+END
+HTTPExchange.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/working/!svn/ver/2/test/asmack-src/com/kenai/jbosh/HTTPExchange.java
+END
+ApacheHTTPSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/working/!svn/ver/2/test/asmack-src/com/kenai/jbosh/ApacheHTTPSender.java
+END
+Attributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/working/!svn/ver/2/test/asmack-src/com/kenai/jbosh/Attributes.java
+END
+BodyParserXmlPull.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/working/!svn/ver/2/test/asmack-src/com/kenai/jbosh/BodyParserXmlPull.java
+END
+AttrAck.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/working/!svn/ver/2/test/asmack-src/com/kenai/jbosh/AttrAck.java
+END
+BOSHClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/working/!svn/ver/2/test/asmack-src/com/kenai/jbosh/BOSHClient.java
+END
+AttrSessionID.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/working/!svn/ver/2/test/asmack-src/com/kenai/jbosh/AttrSessionID.java
+END
+BodyParserResults.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/working/!svn/ver/2/test/asmack-src/com/kenai/jbosh/BodyParserResults.java
+END
+RequestIDSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/working/!svn/ver/2/test/asmack-src/com/kenai/jbosh/RequestIDSequence.java
+END
+HTTPResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/working/!svn/ver/2/test/asmack-src/com/kenai/jbosh/HTTPResponse.java
+END
+AttrPolling.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/working/!svn/ver/2/test/asmack-src/com/kenai/jbosh/AttrPolling.java
+END
+AttrWait.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/working/!svn/ver/2/test/asmack-src/com/kenai/jbosh/AttrWait.java
+END
+ApacheHTTPResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/working/!svn/ver/2/test/asmack-src/com/kenai/jbosh/ApacheHTTPResponse.java
+END
+StaticBody.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/working/!svn/ver/2/test/asmack-src/com/kenai/jbosh/StaticBody.java
+END
+GZIPCodec.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/working/!svn/ver/2/test/asmack-src/com/kenai/jbosh/GZIPCodec.java
+END
+AttrCharsets.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/working/!svn/ver/2/test/asmack-src/com/kenai/jbosh/AttrCharsets.java
+END
+BOSHException.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/working/!svn/ver/2/test/asmack-src/com/kenai/jbosh/BOSHException.java
+END
+BOSHClientConnEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/working/!svn/ver/2/test/asmack-src/com/kenai/jbosh/BOSHClientConnEvent.java
+END
+TerminalBindingCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/working/!svn/ver/2/test/asmack-src/com/kenai/jbosh/TerminalBindingCondition.java
+END
+BOSHClientConnListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/working/!svn/ver/2/test/asmack-src/com/kenai/jbosh/BOSHClientConnListener.java
+END
+AttrMaxPause.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/working/!svn/ver/2/test/asmack-src/com/kenai/jbosh/AttrMaxPause.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/working/!svn/ver/2/test/asmack-src/com/kenai/jbosh/package.html
+END
+BOSHClientConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/working/!svn/ver/2/test/asmack-src/com/kenai/jbosh/BOSHClientConfig.java
+END
+AbstractBody.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/working/!svn/ver/2/test/asmack-src/com/kenai/jbosh/AbstractBody.java
+END
+BodyParserSAX.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/working/!svn/ver/2/test/asmack-src/com/kenai/jbosh/BodyParserSAX.java
+END
+ServiceLib.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/working/!svn/ver/2/test/asmack-src/com/kenai/jbosh/ServiceLib.java
+END
+AttrAccept.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/working/!svn/ver/2/test/asmack-src/com/kenai/jbosh/AttrAccept.java
+END
+AbstractAttr.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/working/!svn/ver/2/test/asmack-src/com/kenai/jbosh/AbstractAttr.java
+END
+ZLIBCodec.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/working/!svn/ver/2/test/asmack-src/com/kenai/jbosh/ZLIBCodec.java
+END

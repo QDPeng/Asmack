@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/working/!svn/ver/2/test/asmack-src/org/apache/harmony/javax/security/auth/callback
+END
+PasswordCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/working/!svn/ver/2/test/asmack-src/org/apache/harmony/javax/security/auth/callback/PasswordCallback.java
+END
+LanguageCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/working/!svn/ver/2/test/asmack-src/org/apache/harmony/javax/security/auth/callback/LanguageCallback.java
+END
+TextInputCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/working/!svn/ver/2/test/asmack-src/org/apache/harmony/javax/security/auth/callback/TextInputCallback.java
+END
+TextOutputCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/working/!svn/ver/2/test/asmack-src/org/apache/harmony/javax/security/auth/callback/TextOutputCallback.java
+END
+UnsupportedCallbackException.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/working/!svn/ver/2/test/asmack-src/org/apache/harmony/javax/security/auth/callback/UnsupportedCallbackException.java
+END
+ConfirmationCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/working/!svn/ver/2/test/asmack-src/org/apache/harmony/javax/security/auth/callback/ConfirmationCallback.java
+END
+ChoiceCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/working/!svn/ver/2/test/asmack-src/org/apache/harmony/javax/security/auth/callback/ChoiceCallback.java
+END
+CallbackHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/working/!svn/ver/2/test/asmack-src/org/apache/harmony/javax/security/auth/callback/CallbackHandler.java
+END
+Callback.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/working/!svn/ver/2/test/asmack-src/org/apache/harmony/javax/security/auth/callback/Callback.java
+END
+NameCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/working/!svn/ver/2/test/asmack-src/org/apache/harmony/javax/security/auth/callback/NameCallback.java
+END

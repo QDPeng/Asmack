@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/filetransfer
+END
+FileTransferManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/filetransfer/FileTransferManager.java
+END
+FaultTolerantNegotiator.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/filetransfer/FaultTolerantNegotiator.java
+END
+FileTransferNegotiator.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/filetransfer/FileTransferNegotiator.java
+END
+OutgoingFileTransfer.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/filetransfer/OutgoingFileTransfer.java
+END
+Socks5TransferNegotiatorManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/filetransfer/Socks5TransferNegotiatorManager.java
+END
+FileTransfer.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/filetransfer/FileTransfer.java
+END
+StreamNegotiator.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/filetransfer/StreamNegotiator.java
+END
+IncomingFileTransfer.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/filetransfer/IncomingFileTransfer.java
+END
+Socks5TransferNegotiator.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/filetransfer/Socks5TransferNegotiator.java
+END
+FileTransferListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/filetransfer/FileTransferListener.java
+END
+FileTransferNegotiatorManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/filetransfer/FileTransferNegotiatorManager.java
+END
+FileTransferRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/filetransfer/FileTransferRequest.java
+END
+IBBTransferNegotiator.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/filetransfer/IBBTransferNegotiator.java
+END

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/muc
+END
+DiscussionHistory.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/muc/DiscussionHistory.java
+END
+DeafOccupantInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/muc/DeafOccupantInterceptor.java
+END
+Occupant.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/muc/Occupant.java
+END
+SubjectUpdatedListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/muc/SubjectUpdatedListener.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/muc/package.html
+END
+ConnectionDetachedPacketCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/muc/ConnectionDetachedPacketCollector.java
+END
+PacketMultiplexListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/muc/PacketMultiplexListener.java
+END
+HostedRoom.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/muc/HostedRoom.java
+END
+Affiliate.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/muc/Affiliate.java
+END
+RoomListenerMultiplexor.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/muc/RoomListenerMultiplexor.java
+END
+UserStatusListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/muc/UserStatusListener.java
+END
+ParticipantStatusListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/muc/ParticipantStatusListener.java
+END
+RoomInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/muc/RoomInfo.java
+END
+MultiUserChat.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/muc/MultiUserChat.java
+END
+InvitationListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/muc/InvitationListener.java
+END
+InvitationRejectionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/muc/InvitationRejectionListener.java
+END
+DefaultUserStatusListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/muc/DefaultUserStatusListener.java
+END
+DefaultParticipantStatusListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/working/!svn/ver/2/test/asmack-src/org/jivesoftware/smackx/muc/DefaultParticipantStatusListener.java
+END
